@@ -6,4 +6,4 @@ Ressources : https://beej.us/guide/bgnet/html/
 
 
 preview : 
-(./preview.png)
+(https://github.com/khenissimehdi/Mini_Server_C/blob/main/preview.png)
